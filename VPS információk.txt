@@ -1,0 +1,4 @@
+OS: Ubuntu
+Processzor: 1 virtuális mag (Intel® Xeon® E5-2650L v4)
+RAM: 1 GB
+Háttértár: 20 GB SSD
